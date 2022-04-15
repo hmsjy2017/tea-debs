@@ -1,0 +1,10 @@
+Package: tea
+Version: 0.8.0
+Architecture: armhf
+Vendor: gitea
+Maintainer: Junyi Shi <hmsjy2019@gmail.com>
+Section: utils
+Priority: optional
+Homepage: https://gitea.com/gitea/tea
+License: MIT
+Description: A command line tool to interact with Gitea servers
